@@ -9,11 +9,11 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   react-native-widget-center
                    DESC
-  s.homepage     = "https://github.com/Taylor123/react-native-widget-center"
+  s.homepage     = "https://github.com/closetothe/react-native-widget-center"
   s.license      = "MIT"
   s.authors      = { "Taylor Johnson" => "" }
   s.platforms    = { :ios => "9.0" }
-  s.source       = { :git => "https://github.com/Taylor123/react-native-widget-center.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/closetothe/react-native-widget-center.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,c,m,swift}"
   s.swift_version = '5.0'
