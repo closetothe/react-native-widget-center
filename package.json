@@ -1,5 +1,5 @@
 {
-  "name": "react-native-widget-center",
+  "name": "@closetothe/react-native-widget-center",
   "title": "React Native Widget Center",
   "version": "0.0.9",
   "description": "WidgetCenter for React Native",
@@ -16,8 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Taylor123/react-native-widget-center.git",
-    "baseUrl": "https://github.com/Taylor123/react-native-widget-center"
+    "url": "git+https://github.com/closetothe/react-native-widget-center.git",
+    "baseUrl": "https://github.com/closetothe/react-native-widget-center"
   },
   "keywords": [
     "react-native"
